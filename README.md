@@ -11,6 +11,6 @@
 |      | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Javascript|
+|     2| Java      |
 
 </details>
